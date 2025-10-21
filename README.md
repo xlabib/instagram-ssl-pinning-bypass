@@ -8,6 +8,7 @@ Requirements:
 - Direct access to the device/emulator (adb / frida-server installed & running on the device).
 - 
 ![screenshot](./images/screenshot.png)
+![video](./images/video.gif)
 
 
 
